@@ -8,7 +8,7 @@ function App() {
   return (
     <>
     <Page1 />
-    <Page2 />
+   
     </>
   )
 }
